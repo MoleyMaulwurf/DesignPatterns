@@ -29,6 +29,9 @@
 <node BACKGROUND_COLOR="#ffff66" CREATED="1582887356783" ID="ID_855074424" MODIFIED="1582887427072" POSITION="left" STYLE="fork" TEXT="Definition">
 <node CREATED="1582887451730" ID="ID_1474564253" MODIFIED="1582887467167" TEXT="Eins-zu-viele-Beziehung zwischen Objekten"/>
 <node CREATED="1582887469792" ID="ID_1433166089" MODIFIED="1582887494088" TEXT="Wenn sich der Zustand eines Objekts &#xe4;ndert, werden die abh&#xe4;nigen Objekte benachrichtigt"/>
+<node CREATED="1582887843851" ID="ID_1486459083" MODIFIED="1582887848773" TEXT="Lose Kopplung">
+<node CREATED="1582887854453" ID="ID_1339838865" MODIFIED="1582887860983" TEXT="Interaktion mit wenig Kenntnissen von einander"/>
+</node>
 </node>
 </node>
 </map>
