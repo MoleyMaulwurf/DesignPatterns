@@ -1,4 +1,6 @@
-package enteAufgabe;
+package programm;
+
+import enteAufgabe.*;
 
 public class MainClass {
     public  static void main(String[] args){

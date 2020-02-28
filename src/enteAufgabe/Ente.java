@@ -1,14 +1,14 @@
 package enteAufgabe;
 
-abstract class Ente {
+public abstract class Ente {
     IFlugverhalten flugverhalten;
     IQuakverhalten quakverhalten;
 
-    void quaken() {
+    public void quaken() {
         quakverhalten.quaken();
     }
 
-    void fliegen() {
+    public void fliegen() {
         flugverhalten.fliegen();
     }
 }
