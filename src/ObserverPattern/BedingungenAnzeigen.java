@@ -1,4 +1,4 @@
-package enteAufgabe.ObserverPattern;
+package ObserverPattern;
 
 public class BedingungenAnzeigen implements IBeobachter {
     @Override

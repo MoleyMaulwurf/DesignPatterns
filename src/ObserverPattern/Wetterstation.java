@@ -1,4 +1,4 @@
-package enteAufgabe.ObserverPattern;
+package ObserverPattern;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package enteAufgabe.ObserverPattern;
+package ObserverPattern;
 
 public interface ISubjekt {
     void registriereBeobachter(IBeobachter beobachter);
